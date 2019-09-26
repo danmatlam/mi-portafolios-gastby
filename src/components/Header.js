@@ -1,6 +1,6 @@
 import React from 'react'
 import ilustration from '../images/mobile/undraw_download_pc33.svg'
-import ContactForm from './contactForm'
+import ContactForm from './ContactForm'
 
 
 const Header = () => {

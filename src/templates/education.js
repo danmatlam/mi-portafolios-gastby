@@ -19,6 +19,7 @@ export default (props) => {
                     </h2>
                     <p className="text-xl">
                         {pageData.description}
+                        
                     </p>
                 </div>
               
