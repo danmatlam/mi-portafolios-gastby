@@ -1,0 +1,18 @@
+{
+    "slug":"presencial",
+    "title":"Formación Académica",
+    "description":"Titulos obtenidos",
+    "items":[
+        {
+            "name":"Universidad de Guayaquil",
+            "degree":"Ing. en sistemas computacionales",
+            "score":"10"
+        },
+        {
+            "name":"Unidad Educativa San José La Salle",
+            "degree":"Comunicación y Ciencias Digitales",
+            "score":"8"
+        }
+    ] 
+    
+}

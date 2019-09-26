@@ -1,0 +1,29 @@
+{
+    "slug":"online",
+    "title":"Talleres y Diplomados",
+    "description":"Otros logros académicos",
+    "items":[
+        {
+            "name":"Udemy",
+            "degree":"PL/SQL de ORACLE en Español ",
+            "score":"10"
+        },
+        {
+            "name":"Udemy",
+            "degree":"React/Redux Avanzado",
+            "score":"10"
+        },
+        {
+            "name":"Udemy",
+            "degree":"React Native",
+            "score":"10"
+        },
+        {
+            "name":"Udemy",
+            "degree":"React Native Animations",
+            "score":"10"
+        }
+    ]
+
+    
+}

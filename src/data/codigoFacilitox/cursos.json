@@ -1,0 +1,17 @@
+{
+    "data": {
+        "email": "hola@ecudevs.com",
+        "username": "danmatlam",
+        "certificates": [],
+        "articles": [],
+        "courses": [
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "57.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            }
+        ],
+        "finished_courses": []
+    },
+    "errors": []
+}
